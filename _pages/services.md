@@ -5,7 +5,7 @@ layout: splash
 ---
 
 intro: 
-  - excerpt: 'Hey, do you know you can comission us for your projects`'
+  - excerpt: 'Hey, do you know you can comission us for your projects'
 feature_row:
   - image_path: /assets/images/placeholder_content_r.jpg
     alt: "placeholder image 1"
