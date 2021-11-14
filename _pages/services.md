@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "About Us"
+title: "Portfolios"
 layout: splash
 header:
 intro: 
