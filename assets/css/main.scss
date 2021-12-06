@@ -8,4 +8,5 @@
 @import "minimal-mistakes"; // main partials
 
 .masthead {background-image: url(/assets/images/header-pattern.png)}
-footer {background-image: url(/assets/images/header-pattern.png)}
+.page__footer {background-image: url(/assets/images/header-pattern.png)}
+.greedy-nav {background: none;}
