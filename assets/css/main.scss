@@ -7,5 +7,5 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.masthead {background-image: url(../assets/images/header-pattern.png)}
-footer {background-image: url(../assets/images/header-pattern.png)}
+.masthead {background-image: url(/assets/images/header-pattern.png)}
+footer {background-image: url(/assets/images/header-pattern.png)}
